@@ -21,7 +21,7 @@
     html { scroll-behavior: smooth; }
     body {
       font-family: 'Poppins', sans-serif;
-      background: var(--cream);
+      background: var(--white);
       color: var(--text-dark);
       line-height: 1.6;
     }
